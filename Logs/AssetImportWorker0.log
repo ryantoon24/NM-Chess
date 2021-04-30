@@ -1,0 +1,98 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18362.1256; Version 1903; 64bit' Language: 'en' Physical Memory: 16306 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rjtoon/Desktop/Chess Updated 2d Proper
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50537
+Successfully changed project path to: C:/Users/rjtoon/Desktop/Chess Updated 2d Proper
+C:/Users/rjtoon/Desktop/Chess Updated 2d Proper
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 67.56 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rjtoon/Desktop/Chess Updated 2d Proper/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 310  (ID=0x107d)
+    Vendor:   
+    VRAM:     979 MB
+    Driver:   10.18.13.6191
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003438 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.97 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.666 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.018058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.42 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.625 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.33 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2.637300 ms (FindLiveObjects: 0.219800 ms CreateObjectMapping: 0.095000 ms MarkObjects: 2.132300 ms  DeleteObjects: 0.188900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+  artifactKey: Guid(5a2082a44711bad4b90f693579c2b336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb using Guid(5a2082a44711bad4b90f693579c2b336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c047771f7675aba135adf682553eb2') in 0.088602 seconds
+  Import took 0.093113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.213572 seconds.
+  path: Assets/Plugins/GitHub/Editor/eula.txt
+  artifactKey: Guid(136dc24f151211d438acee17aff4e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/eula.txt using Guid(136dc24f151211d438acee17aff4e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a211b4dd9570328db7058c4a0f09648') in 0.036817 seconds
+  Import took 0.047729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.807206 seconds.
+  path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+  artifactKey: Guid(dae2ecee8a704dd59797e26554ff8606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/ExtensionLoader.cs using Guid(dae2ecee8a704dd59797e26554ff8606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184589f3ee817f66d00e31b2c863375a') in 0.042943 seconds
+  Import took 0.047959 seconds .
+
