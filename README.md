@@ -6,3 +6,4 @@ NM Chess is a project I did at the Blue Valley Center for Advanced Professional 
 
 - Large part of chess made using [this](https://www.youtube.com/watch?v=lFZeeTZ29w0&list=PLXV-vjyZiT4b7WGjgiqMy422AVyMaigl1) YouTube tutorial series from [Etredal](https://www.youtube.com/channel/UC0kUylQj8kCcjv68-iPBMBg). Major cudos there.
 - NextMind developer tools can be found [here](https://www.next-mind.com/developer/)
+- Chess and board pieces are from [DevilsWorkShop's Pixel Art Chess Pack](https://devilsworkshop.itch.io/pixel-art-chess-asset-pack)
